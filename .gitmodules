@@ -1,0 +1,9 @@
+[submodule "HW1:A* algorithm"]
+	path = HW1:A* algorithm
+	url = https://github.com/nataliepjlin/tcg2025-HW1
+[submodule "HW2: Monte-Carlo tree search"]
+	path = HW2: Monte-Carlo tree search
+	url = https://github.com/nataliepjlin/tcg2025-HW2
+[submodule "Final Project: Alpha-Beta pruning, NegaScout (null window search), Star1 (chance node search)"]
+	path = Final Project: Alpha-Beta pruning, NegaScout (null window search), Star1 (chance node search)
+	url = https://github.com/nataliepjlin/tcg2025-final
